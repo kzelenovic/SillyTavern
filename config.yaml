@@ -72,11 +72,11 @@ thumbnails:
       - 240
       - 135
     avatar:
-      - 864
-      - 1280
+      - 1024
+      - 1536
     persona:
-      - 864
-      - 1280
+      - 1024
+      - 1536
 performance:
   lazyLoadCharacters: false
   memoryCacheCapacity: 100mb
