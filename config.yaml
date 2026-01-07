@@ -75,8 +75,8 @@ thumbnails:
       - 864
       - 1280
     persona:
-      - 96
-      - 144
+      - 864
+      - 1280
 performance:
   lazyLoadCharacters: false
   memoryCacheCapacity: 100mb
