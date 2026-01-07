@@ -64,7 +64,7 @@ backups:
     maxTotalBackups: -1
     throttleInterval: 10000
 thumbnails:
-  enabled: true
+  enabled: false
   format: png
   quality: 100
   dimensions:
